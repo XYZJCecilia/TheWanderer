@@ -78,5 +78,5 @@ img{
   /* Add a color to the active/current link */
   .nav a.active {
     background-color: rgb(37, 62, 119);
-    color: white;
+    font-color: white;
   }
